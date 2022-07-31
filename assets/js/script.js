@@ -11,4 +11,4 @@ $(document).ready(function () {// tells engine to load 1)html & 2)css first.
         //set items in local storage.
         localStorage.setItem(time, text);
     })
-   
+
