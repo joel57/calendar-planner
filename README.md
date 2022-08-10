@@ -13,7 +13,7 @@ A Calendar Planner for a work day.
 
 ## Image
 
-<img src="./assets/images/Quiz_screen_shoot.png">;
+<img src="./assets/images/day%20planner.png">;
 
 
 ### URl Link
